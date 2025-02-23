@@ -43,6 +43,6 @@ Each user type gets a distinct ticket when scanned:
 ## Video Demonstrations
 
 ### User QR Scanning & Ticket Printing
-[[Insert video link or embed here]](https://www.youtube.com/shorts/rswR4AL3Yjk)
+[[CLICK HERE]](https://www.youtube.com/shorts/rswR4AL3Yjk)
 
 
